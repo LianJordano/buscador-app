@@ -6,7 +6,9 @@ Instalación
 ******
 USO:
 ***********************
+--------------------------------------------------------------------------
 ES DE SUPREMA IMPORTANCIA, QUE PARA UTILIZAR EL BUSCADOR, SE DEBE ESTAR
 EJECUTANDO LA APLICACION DE TAREAS-APP, PARA QUE LOCALMENTE SE PUEDA CONSUMIR
 EL API QUE TRAE LOS REGISTROS.
+-------------------------------------------------------------------------
 ***********************
